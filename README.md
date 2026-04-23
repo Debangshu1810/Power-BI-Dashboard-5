@@ -33,7 +33,7 @@ Why: Improves user interactivity and analysis depth
 3. Enabled data-driven hiring strategies
 4. Improved decision-making with real-time insights and Highlighted performance trends for workforce optimization.
 📷 Dashboard Preview:
-Project File:
+Project File: https://github.com/Debangshu1810/Power-BI-Dashboard-5/blob/main/Power%20BI%20HR%20Consultancy.pbix
 Project Screenshot: 
 
 🚀 Conclusion
