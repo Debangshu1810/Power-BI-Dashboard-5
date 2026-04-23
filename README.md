@@ -34,8 +34,7 @@ Why: Improves user interactivity and analysis depth
 4. Improved decision-making with real-time insights and Highlighted performance trends for workforce optimization.
 📷 Dashboard Preview:
 Project File: https://github.com/Debangshu1810/Power-BI-Dashboard-5/blob/main/Power%20BI%20HR%20Consultancy.pbix
-Project Screenshot: 
+Project Screenshot: https://github.com/Debangshu1810/Power-BI-Dashboard-5/blob/main/HR%20Consultancy%20Screenshot.png
 
-🚀 Conclusion
 
 This dashboard empowers HR teams and consultants to make informed decisions by providing clear, interactive, and actionable insights from complex datasets.
